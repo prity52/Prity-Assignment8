@@ -1,0 +1,42 @@
+body{
+            
+    background-color: rgb(171, 255, 255);
+}
+
+table{
+    border: 2px solid rgba(128, 0, 0, 0.61);
+    background-color: whitesmoke;
+    margin: 0px 290px 0px;
+    padding: 200px 0px 200px;
+    text-align: center;
+    
+}
+
+td,label{
+    padding-left: 5px;
+    text-align: left;
+    color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    
+    color: red;
+}
+td{
+    margin: auto;
+    padding: 8px 18px 8px;
+}
+
+button{
+    color: whitesmoke;
+    background-color: maroon;
+    margin-left: 100px;
+    width: 155px;
+}
+button:hover{
+    background-color: rgb(248, 164, 164);
+}
+input:hover{
+    background-color: rgb(136, 255, 39);
+}
